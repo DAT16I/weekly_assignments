@@ -1,0 +1,11 @@
+.square {
+    -fx-border-radius: 0px;
+    -fx-box-shadow: rgba(0,0,0,0.0) 0 0 0px;
+    -fx-background-radius: 0;
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+}
+
+#txtChat {
+
+}
