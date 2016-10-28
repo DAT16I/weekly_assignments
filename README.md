@@ -10,3 +10,4 @@
 
 ## [5.0 - Birthday Party](/5.0.md)
 
+## [6.0 - The Mayan Temple](/6.0.md)
