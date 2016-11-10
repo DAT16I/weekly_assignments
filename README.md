@@ -11,3 +11,5 @@
 ## [5.0 - Birthday Party](/5.0.md)
 
 ## [6.0 - The Mayan Temple](/6.0.md)
+
+## [7.0 - Theme Park](/7.0.md)
